@@ -75,3 +75,7 @@ Entertainment / research only. Not financial advice. Past ROI does not guarantee
 ## Status
 
 Bootstrap commit. Automated export from production will populate `tips/` and `settlements/` next.
+
+## Automation
+
+Production VPS runs `export_ledger` + `cron_ledger.sh` hourly (append-only JSONL commits).
