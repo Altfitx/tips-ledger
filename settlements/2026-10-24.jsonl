@@ -40,3 +40,17 @@
 {"tip_id":948,"content_hash":"sha256:6de3b44d9283c31b56b3ee1fa17858ad31ecd21011603225e19ba1ecc7952b9f","result":"won","pnl_units":"2.300","score":"2-3","settled_at":"2026-10-24T16:01:46.143953Z"}
 {"tip_id":942,"content_hash":"sha256:942549d9a321599542fb2ef6a8fcf19664774e37ac9b1ed2d60a4e9d79ce1e29","result":"lost","pnl_units":"-1.000","score":"2-0","settled_at":"2026-10-24T16:01:46.146324Z"}
 {"tip_id":941,"content_hash":"sha256:f2a701bbfa46518d2e5f6cbf3c612f0adbec10251ff7e96a3a22ee8780e3c86d","result":"won","pnl_units":"2.600","score":"2-1","settled_at":"2026-10-24T16:01:46.148682Z"}
+{"tip_id":1191,"content_hash":"sha256:767e5668e5acb7f42c47001e1c2102bac73bc7f0c8c8681c37cf1b86a5bff8c3","result":"won","pnl_units":"3.000","score":"1-2","settled_at":"2026-10-24T20:01:28.949567Z"}
+{"tip_id":1190,"content_hash":"sha256:b70ec87eba0d806bfa80ae096062a6dd9b02301a5afc84e5a351e2523c97ec67","result":"lost","pnl_units":"-1.000","score":"0-2","settled_at":"2026-10-24T20:01:28.952722Z"}
+{"tip_id":1188,"content_hash":"sha256:b82ed22caa12a74927f5f15f0b4be76badf28cf02747764419be3adbca746b5c","result":"won","pnl_units":"0.440","score":"1-0","settled_at":"2026-10-24T20:01:28.955200Z"}
+{"tip_id":1189,"content_hash":"sha256:7bb237c0cbf366fa740e26fcdd9190ef1035a1d5b9210e8472b151d61bf0ae74","result":"lost","pnl_units":"-1.000","score":"1-0","settled_at":"2026-10-24T20:01:28.957642Z"}
+{"tip_id":1187,"content_hash":"sha256:97fa95d780d5a1b5f5ce1a404da295faa8e740bd47a78b004de0b39d8cea2796","result":"won","pnl_units":"3.400","score":"3-3","settled_at":"2026-10-24T20:01:28.959911Z"}
+{"tip_id":1096,"content_hash":"sha256:d9cfe393d8c431d10fe26a89af1edc49507a034e088cb72c5e6d0d52acf8f7a5","result":"won","pnl_units":"0.440","score":"1-0","settled_at":"2026-10-24T20:01:28.962379Z"}
+{"tip_id":1064,"content_hash":"sha256:8fbfaf3ab5696cddf07aa158ef9ecff1590d649f48cda928073af9bff2727f98","result":"won","pnl_units":"3.000","score":"1-2","settled_at":"2026-10-24T20:01:28.964735Z"}
+{"tip_id":1063,"content_hash":"sha256:91e94a577dee7458b7e60154b2231df88ac83bd468ae2ee09651157b7d9d8bce","result":"lost","pnl_units":"-1.000","score":"0-2","settled_at":"2026-10-24T20:01:28.967110Z"}
+{"tip_id":1062,"content_hash":"sha256:7793a9e7a02ab724f4c7087daf88818df4e25afd7fd6e6e3e5b7c2c470aa8af3","result":"lost","pnl_units":"-1.000","score":"1-0","settled_at":"2026-10-24T20:01:28.969469Z"}
+{"tip_id":1061,"content_hash":"sha256:70cec1234f3a1ff2421653dc977f4c5729feac7f9afb5d13f7ceab850c20730d","result":"won","pnl_units":"3.400","score":"3-3","settled_at":"2026-10-24T20:01:28.971792Z"}
+{"tip_id":974,"content_hash":"sha256:27570c90483c449b8143c9fa102596ac2ea198540ed94b9acaa52c701a20b55d","result":"won","pnl_units":"3.400","score":"3-3","settled_at":"2026-10-24T20:01:28.974167Z"}
+{"tip_id":965,"content_hash":"sha256:d7b9df627e1abe41e064f60d859d9bc21e534b5e0fd42a61828fc29e5dcf8065","result":"won","pnl_units":"3.000","score":"1-2","settled_at":"2026-10-24T20:01:28.976393Z"}
+{"tip_id":964,"content_hash":"sha256:3a74b71871f8ea8298a3192074c1c53eb3a38668bebbee42ac15976b4fb6d2e5","result":"lost","pnl_units":"-1.000","score":"1-0","settled_at":"2026-10-24T20:01:28.978590Z"}
+{"tip_id":943,"content_hash":"sha256:eb3728aecd1bac03be2d0228c425723384db6969dd1749d5cabfa2341b70d0b0","result":"lost","pnl_units":"-1.000","score":"0-2","settled_at":"2026-10-24T20:01:28.980977Z"}
