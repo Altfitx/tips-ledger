@@ -1,1 +1,7 @@
 {"tip_id":1456,"content_hash":"sha256:7844eebbf155bb34d1a6b288d2949cbd8a7b548c36e7623f82f10aaa61cf0841","result":"lost","pnl_units":"-1.000","score":"6-1","settled_at":"2026-11-01T00:00:42.812569Z"}
+{"tip_id":1460,"content_hash":"sha256:f2158db5299eb07a12f0fe363bbbd80cba001d6efdc2d4d6b3622ad2b2c7454c","result":"lost","pnl_units":"-1.000","score":"2-1","settled_at":"2026-11-01T16:01:32.951942Z"}
+{"tip_id":1461,"content_hash":"sha256:8370a8ac7d4fdd46dc0510c32a7dab6cf85b0ac2a7d80762078d554e159425f8","result":"lost","pnl_units":"-1.000","score":"2-1","settled_at":"2026-11-01T16:01:32.955787Z"}
+{"tip_id":1462,"content_hash":"sha256:577aa7257e9502324adadf5b78623908333a3835456d436a8506d4e52b619cf2","result":"lost","pnl_units":"-1.000","score":"2-1","settled_at":"2026-11-01T16:01:32.958470Z"}
+{"tip_id":1459,"content_hash":"sha256:d20cb298e1f8f2a7b79993f8289e6768509817bdd4747ee285a25456d01bbdbe","result":"lost","pnl_units":"-1.000","score":"5-1","settled_at":"2026-11-01T16:01:32.961322Z"}
+{"tip_id":1458,"content_hash":"sha256:65f54bd7734f2b0965bb6d86b48a12cb2ae85ccbf3bdbbdcb6adb2c7c15f1eaf","result":"lost","pnl_units":"-1.000","score":"3-1","settled_at":"2026-11-01T16:01:32.963855Z"}
+{"tip_id":1374,"content_hash":"sha256:992d2de5f2c5256c1d0d1504bbb8fb0a9de0a789bedb1653957f2691387556e9","result":"won","pnl_units":"2.400","score":"3-1","settled_at":"2026-11-01T16:01:32.966282Z"}
