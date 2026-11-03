@@ -1,0 +1,4 @@
+{"tip_id":1570,"content_hash":"sha256:dbe08fe6676e7d9cb6722ecdd84f0564bbf7bbd16ec066dbb2fe2602a8d2823e","result":"lost","pnl_units":"-1.000","score":"0-2","settled_at":"2026-11-03T00:00:28.850997Z"}
+{"tip_id":1571,"content_hash":"sha256:491b8752a9da2bc5a7f8a708244d9600afe548a5a426bc96b276f2819e984a88","result":"lost","pnl_units":"-1.000","score":"0-2","settled_at":"2026-11-03T00:00:28.854780Z"}
+{"tip_id":1569,"content_hash":"sha256:bbe214480a9c0f47eb2daf159fa6edb0c76e89ff6482b776b8ce4e1f32e13b9e","result":"lost","pnl_units":"-1.000","score":"0-3","settled_at":"2026-11-03T00:00:28.857281Z"}
+{"tip_id":1568,"content_hash":"sha256:4b8122314ce24d2317903cc9d2c338d630efe4f305efa4f27651f2d88b73385a","result":"lost","pnl_units":"-1.000","score":"0-3","settled_at":"2026-11-03T00:00:28.859762Z"}
