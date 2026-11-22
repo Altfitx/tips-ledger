@@ -16,3 +16,11 @@
 {"tip_id":1846,"content_hash":"sha256:6be027ee870c518d34a2f4719f92ff024694ed8efcc48e44d08f6017a4fb336e","result":"lost","pnl_units":"-1.000","score":"3-2","settled_at":"2026-11-22T16:01:25.857257Z"}
 {"tip_id":1847,"content_hash":"sha256:5c50e8d1f6c41cee461a4c5985f91b15bb03063eef83cd4ddf3d8816415eb287","result":"lost","pnl_units":"-1.000","score":"3-2","settled_at":"2026-11-22T16:01:25.860806Z"}
 {"tip_id":1848,"content_hash":"sha256:f60e023b64d905f8f74e8205d9b02cdd08fc03a547a8b3db1a71139938ee217e","result":"lost","pnl_units":"-1.000","score":"3-2","settled_at":"2026-11-22T16:01:25.864061Z"}
+{"tip_id":1965,"content_hash":"sha256:798daf059570c35a2a003acb1fbeff53a980196a5e755695fa6c611c10b45a2a","result":"won","pnl_units":"1.800","score":"3-1","settled_at":"2026-11-22T20:00:58.355328Z"}
+{"tip_id":1860,"content_hash":"sha256:4e6859eb5a2a007f1142a901b2ae999d713c95712f59e22a07bee3cf21c7e10c","result":"lost","pnl_units":"-1.000","score":"4-0","settled_at":"2026-11-22T20:00:58.359596Z"}
+{"tip_id":1861,"content_hash":"sha256:74c6e16a2c933c314e6c2c975293c136b32afd8ba866f57729ff0d91e78dbe39","result":"lost","pnl_units":"-1.000","score":"4-0","settled_at":"2026-11-22T20:00:58.362409Z"}
+{"tip_id":1862,"content_hash":"sha256:b48128265145265ebf5a89e71c9255a02161c9b0d6a7ee1c13ca974868efe198","result":"lost","pnl_units":"-1.000","score":"4-0","settled_at":"2026-11-22T20:00:58.364793Z"}
+{"tip_id":1859,"content_hash":"sha256:bb5425feed8f49dd301ab56eb837625e6296ccc7cb652d404f6f3bd94a0a75d0","result":"lost","pnl_units":"-1.000","score":"4-0","settled_at":"2026-11-22T20:00:58.367376Z"}
+{"tip_id":1857,"content_hash":"sha256:fba7530b91b544cef474ef5d4596590c80f411579e09a58a1ac18d14ccbfe27b","result":"lost","pnl_units":"-1.000","score":"1-1","settled_at":"2026-11-22T20:00:58.369785Z"}
+{"tip_id":1858,"content_hash":"sha256:9368e04946376af6d7ecb6119d22748a838f739d677f23f6c95a1cd6f889120b","result":"lost","pnl_units":"-1.000","score":"1-1","settled_at":"2026-11-22T20:00:58.372700Z"}
+{"tip_id":1856,"content_hash":"sha256:d228cd13037f4a132885b1ae1b6737aa1ca99897d78b238fb06e8854eefd47ac","result":"lost","pnl_units":"-1.000","score":"3-1","settled_at":"2026-11-22T20:00:58.375356Z"}
